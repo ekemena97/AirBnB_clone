@@ -1,0 +1,12 @@
+## Ignore the following files:
+
+# Pycache files
+*__pycache__*
+
+
+# Tmp files
+*~
+
+
+# Temporarily created file from running console
+file.json
